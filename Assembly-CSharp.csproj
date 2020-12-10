@@ -46,8 +46,8 @@
   </PropertyGroup>
   <ItemGroup>     <Compile Include="Assets\Scripts\PathScript.cs" />
      <Compile Include="Assets\Scripts\SimHandler.cs" />
-     <Compile Include="Assets\Scripts\SpriteMove2.cs" />
      <Compile Include="Assets\Scripts\SpriteMovement.cs" />
+     <Compile Include="Assets\Scripts\SpriteMovement2.cs" />
      <Compile Include="Assets\Scripts\wallInfo.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Danie/Documents/Year4Semester1/CSC 473/Project/PAN-PAM-PANM-PAMM/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
